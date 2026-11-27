@@ -1,0 +1,8 @@
+{
+  "name": "HYO Steps",
+  "description": "HYO Steps guides Korean middle school students through writing about how they show care and respect for their family, gives one small hint at a time, and lets students rewrite their own English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
